@@ -15,7 +15,7 @@ img {
   width: 50%;
 }
 
-a {
+#menu > a {
   text-align: center;
   padding: 10px;
   background-color: green;
